@@ -18,6 +18,10 @@ Open command prompt and clone to your local machine usign git clone command.
 # http://127.0.0.1:8000/restaurant/menu/1
 
 
+# table Booking API
+# http://127.0.01:8000/restaurant/booking/
+
+
 # registration page
 # http://127.0.0.1:8000/auth/users
 
