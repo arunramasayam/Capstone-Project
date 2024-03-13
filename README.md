@@ -1,6 +1,12 @@
 # Capstone-Project
 Capstone-Project full stack
 
+# Instruction to open the project file in vs code
+Open command prompt and clone to your local machine usign git clone command.
+1. cd Capstone-Project
+2. scripts\activate
+3. cd littlelemon
+4. code .
 
 
 # Api to get menu items
